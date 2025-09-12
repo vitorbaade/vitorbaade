@@ -10,13 +10,6 @@
 # Estatísticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=vitorbaade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vitorbaade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbaade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Troféus GitHub:
-![](https://github-profile-trophy.vercel.app/?username=vitorbaade&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Contribuições:
-![](https://github-contributor-stats.vercel.app/api?username=vitorbaade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vitorbaade&icon=0&color=0)](https://visitcount.itsvg.in)
