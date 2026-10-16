@@ -38,12 +38,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitorbaade&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vitorbaade&theme=dark&hide_border=false" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vitorbaade&icon=0&color=0" />
 </div>
