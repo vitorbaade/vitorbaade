@@ -5,7 +5,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-baade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorbaade)
 [![Email](https://img.shields.io/badge/Email-vitorcesarbaade@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vitorcesarbaade@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/vitor.baade)
 
